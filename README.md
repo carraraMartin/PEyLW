@@ -1,3 +1,4 @@
 # programacionEstatica
-Repositorio con trabajos de conceptos de HTML,CSS y JS 
-Materia: Programación Estática y Lab Web.
+Materia: Programación Estática y Laboratorio Web. 
+Universidad Nacional del Comahue. 
+Descripción: materia correspondiente al primer año de la carrera, donde se ven conceptos de HTML,CSS,JavaScript en la implementación de páginas estáticas
